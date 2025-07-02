@@ -1,0 +1,12 @@
+<% layout("layouts/boilerplate") %>
+
+<div class="text-center mt-5">
+  <h1 class="text-success">🎉 Yeah! You subscribed.</h1>
+  <p>You will be redirected to listings shortly...</p>
+</div>
+
+<script>
+  setTimeout(() => {
+    window.location.href = "/listings";
+  }, 3000);
+</script>
