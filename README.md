@@ -87,8 +87,5 @@ Likhitha J.
 
 ---
 
-If you want the file now, here’s the direct download:
-
-📎 [Download `Wanderlust_README.md`](sandbox:/mnt/data/Wanderlust_README.md)
 
 
