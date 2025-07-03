@@ -76,11 +76,11 @@ npm start
 ```
 App will run at: http://localhost:8080
 
-👤 Author
+# 👤 Author
 Likhitha J.
-🎓 B.E. in ECE | Bangalore Institute of Technology (2022–2026)
-🌐 Portfolio
-💻 GitHub
+-🎓 B.E.  | Bangalore Institute of Technology 
+-🌐 Portfolio
+-💻 GitHub
 
 
 
@@ -91,4 +91,4 @@ If you want the file now, here’s the direct download:
 
 📎 [Download `Wanderlust_README.md`](sandbox:/mnt/data/Wanderlust_README.md)
 
-Let me know if you'd like help designing a Render deployment guide or video walkthrough!
+
